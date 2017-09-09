@@ -1,7 +1,4 @@
-Welcome to Devops
 
-Welcome to capgemini
-Welcome to Dev branch...
 
 class A{
 
